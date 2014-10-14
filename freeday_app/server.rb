@@ -1,7 +1,6 @@
 require 'sinatra'
 require 'sinatra/reloader'
 require 'json'
-require 'haml'
 require_relative './db/connection.rb'
 require_relative './db/models.rb'
 
